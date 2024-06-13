@@ -1,4 +1,4 @@
-package it.sevenbits.calculator;
+package it.lovejazz.calculator;
 
 import java.util.ArrayList;
 import java.util.List;

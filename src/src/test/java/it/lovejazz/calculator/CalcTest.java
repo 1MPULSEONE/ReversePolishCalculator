@@ -1,4 +1,4 @@
-package it.sevenbits.calculator;
+package it.lovejazz.calculator;
 
 import org.junit.Test;
 
@@ -64,6 +64,7 @@ public class CalcTest {
         assertEquals(21f, calc.eval("1 2 3 4 5 6 sum"), epsilon);
         assertEquals(26f, calc.eval("2 3 + 1 2 3 4 5 6 sum"), epsilon);
     }
+
 
     @Test(expected = CalcException.class)
     public void shouldThrowExceptionWhenUnknownOperation() throws CalcException {

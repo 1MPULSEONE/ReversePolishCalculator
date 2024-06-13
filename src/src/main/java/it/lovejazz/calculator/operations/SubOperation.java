@@ -1,5 +1,7 @@
-package it.sevenbits.calculator.operations;
-import it.sevenbits.calculator.BinaryOperation;
+package it.lovejazz.calculator.operations;
+
+import it.lovejazz.calculator.BinaryOperation;
+
 public class SubOperation implements BinaryOperation {
     @Override
     public float apply(final float left, final float right) {

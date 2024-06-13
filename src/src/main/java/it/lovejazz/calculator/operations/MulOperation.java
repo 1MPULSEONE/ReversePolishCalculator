@@ -1,5 +1,8 @@
-package it.sevenbits.calculator.operations;
-import it.sevenbits.calculator.BinaryOperation;
+package it.lovejazz.calculator.operations;
+
+import it.lovejazz.calculator.BinaryOperation;
+import it.lovejazz.calculator.Operation;
+
 public class MulOperation implements BinaryOperation {
     @Override
     public float apply(final float left, final float right) {

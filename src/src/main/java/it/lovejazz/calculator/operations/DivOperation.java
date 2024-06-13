@@ -1,5 +1,6 @@
-package it.sevenbits.calculator.operations;
-import it.sevenbits.calculator.BinaryOperation;
+package it.lovejazz.calculator.operations;
+
+import it.lovejazz.calculator.BinaryOperation;
 
 public class DivOperation implements BinaryOperation {
     @Override

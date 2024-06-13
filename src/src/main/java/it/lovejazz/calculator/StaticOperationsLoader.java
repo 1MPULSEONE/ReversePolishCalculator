@@ -1,6 +1,6 @@
-package it.sevenbits.calculator;
+package it.lovejazz.calculator;
 
-import it.sevenbits.calculator.operations.*;
+import it.lovejazz.calculator.operations.*;
 
 import java.util.Arrays;
 import java.util.List;

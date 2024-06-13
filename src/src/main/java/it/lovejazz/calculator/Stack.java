@@ -1,4 +1,4 @@
-package it.sevenbits.calculator;
+package it.lovejazz.calculator;
 
 public interface Stack {
     void push(float value);
